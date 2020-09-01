@@ -16,7 +16,7 @@ body {
 .header {
 	background-color: #000000;
 	color: #FFFFFF;
-	background-image: url("Imperial-Aquila.jpg");
+	background-image: url("../Imperial-Aquila.jpg");
 	background-repeat: no-repeat;
 	background-position: center;
 	/*if i put it at 400% makes it ridiculously large and does not match the example provided*/
